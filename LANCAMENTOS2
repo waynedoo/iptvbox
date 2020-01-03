@@ -66,6 +66,15 @@
 </item>
 
 <item>
+<title>[B]SBT AOVIVO TESTE2 [/B][COLOR YELLOW] DUBLADO [/COLOR] </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://live.multicanais.com/live/sbthd/video.m3u8?md5=noBDVYxDjb-UyZC7l3fzIw&expires=1578073894?usp=drivesdk</link>
+<thumbnail>CAPA DO FILME</thumbnail>
+<fanart>IMAGEM DO FUNDO</fanart>
+<info>SINPSE DO FILME</info>
+</item>
+
+
+<item>
 <title>AS BRANQUELAS 2</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6dLGlJ58Sy0MEl6MThYZ0ppVVE/view?usp=drivesdk</link>
 <thumbnail></thumbnail>
