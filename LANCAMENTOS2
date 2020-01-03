@@ -1,9 +1,9 @@
 <item>
 title>[B][COLOR lime]*NEW  [/COLOR][/B][B]CORINGA - [COLOR yellow](2019)[/COLOR] - [COLOR orange] (HD)[/COLOR] - DUBLADO[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://d32ynor41oz58z.cloudfront.net/RCFServer3/ondemand/CRNGA.mp4?attachment=true?usp=drivesdk</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJnXQL6Aa4s26eaORTvy0zRskfh.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/f5F4cRhQdUbyVbB5lTNCwUzD6BP.jpg</fanart>
+<info>Coringa é uma história original do vilão nunca antes vista no cinema. Arthur Fleck (Joaquin Phoenix) trabalha como palhaço para uma agência de talentos e, toda semana, precisa comparecer a uma agente social, devido aos seus conhecidos problemas mentais. Após ser demitido, Fleck reage mal à gozação de três homens em pleno metrô e os mata. Os assassinatos iniciam um movimento popular contra a elite de Gotham City, da qual Thomas Wayne (Brett Cullen) é seu maior representante. A versão de Phillips sobre Arthur Fleck, um homem desprezado pela sociedade, não é só uma visão realista do personagem, mas também uma lição de vida.</info>
 </item>
 
 <item>
@@ -15,7 +15,7 @@ title>[B][COLOR lime]*NEW  [/COLOR][/B][B]CORINGA - [COLOR yellow](2019)[/COLOR]
 </item>
 
 <item>
-<title>as aventuras do urso</title>
+<title>os aeronautas teste de codigo</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://d32ynor41oz58z.cloudfront.net/RCFServer3/ondemand/OSAERNTS.mp4?attachment=true?usp=drivesdk</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
