@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<title>[B][COLOR yellow]VIS A VIS -[/B][/COLOR](COMPLETA)[COLOR orange] (HD)[/COLOR] - DUBLADO</title>
+<name>[B][COLOR yellow]VIS A VIS -[/B][/COLOR](COMPLETA)[COLOR orange] (HD)[/COLOR] - DUBLADO</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7mfPWKrNInkTbjVwp0EkaFYRHqD.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/waynedoo/iptvbox/master/VISAVIS</externallink>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7mfPWKrNInkTbjVwp0EkaFYRHqD.jpg</fanart>
@@ -28,7 +28,7 @@
 
 <channels>
 <channel>
-<title>[B][COLOR yellow]VIDA -[/B][/COLOR](COMPLETA)[COLOR orange] (HD)[/COLOR] - DUBLADO</title>
+<name>[B][COLOR yellow]VIDA -[/B][/COLOR](COMPLETA)[COLOR orange] (HD)[/COLOR] - DUBLADO</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQCCFA00dgfhh599cBkgLQ3lOn6.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/waynedoo/iptvbox/master/VIDA</externallink>
 <fanart>https://image.tmdb.org/t/p/original/9OACP2ETgWsrvVUN8Pt1tYgXWUO.jpg</fanart>
