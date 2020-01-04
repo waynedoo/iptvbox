@@ -15,7 +15,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FILMfdfdfdES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SERIES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia601509.us.archive.org/29/items/series_202001/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/waynedoo/iptvbox/master/SERIESCATEGO</externallink>
 <fanart>https://ia601504.us.archive.org/25/items/LANCAMENTOS.fw/fanart.jpg</fanart>
@@ -26,20 +26,5 @@
 </channel>
 </channels>
 
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]TV ONLINE[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia601509.us.archive.org/29/items/series_202001/tv.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/waynedoo/iptvbox/master/SERIESCATEGO</externallink>
-<fanart>https://ia601504.us.archive.org/25/items/LANCAMENTOS.fw/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - OS MELHORES CANAIS PARA A TODA FAMILIA! - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
