@@ -28,8 +28,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR lime]CANAL 04  [/COLOR][/B][B]TESTE DE LINK - [COLOR yellow][/COLOR] [/B]</title>
-<link>http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink</link>
+<title>[B][COLOR lime]CANAL 04  [/COLOR][/B][B]FX - [COLOR yellow][/COLOR] [/B]</title>
+<link>https://d3v1dieo3w7nem.cloudfront.net/hls1/fx.m3u8?wmsAuthSign=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info>ESPORTES</info>
@@ -46,8 +46,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR lime]CANAL 06  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
-<link>URL</link>
+<title>[B][COLOR lime]CANAL 06  [/COLOR][/B][B]FOX - [COLOR yellow][/COLOR] [/B]</title>
+<link>https://d3v1dieo3w7nem.cloudfront.net/hls1/fox.m3u8?wmsAuthSign=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
@@ -55,8 +55,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR lime]CANAL 07  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
-<link>URL</link>
+<title>[B][COLOR lime]CANAL 07  [/COLOR][/B][B]TC ACTION - [COLOR yellow][/COLOR] [/B]</title>
+<link>https://d3v1dieo3w7nem.cloudfront.net/hls1/telecineaction.m3u8?wmsAuthSign=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
@@ -64,8 +64,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR lime]CANAL 08  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
-<link>URL</link>
+<title>[B][COLOR lime]CANAL 08  [/COLOR][/B][B]TC PIPOCA - [COLOR yellow][/COLOR] [/B]</title>
+<link>https://d3v1dieo3w7nem.cloudfront.net/hls1/telecinepipoca.m3u8?wmsAuthSign=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
@@ -73,8 +73,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR lime]CANAL 09  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
-<link>URL</link>
+<title>[B][COLOR lime]CANAL 09  [/COLOR][/B][B]TC CULT - [COLOR yellow][/COLOR] [/B]</title>
+<link>https://d3v1dieo3w7nem.cloudfront.net/hls1/telecinecult.m3u8?wmsAuthSign=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
@@ -82,8 +82,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR lime]CANAL 10  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
-<link>URL</link>
+<title>[B][COLOR lime]CANAL 10  [/COLOR][/B][B]TNT - [COLOR yellow][/COLOR] [/B]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tnt_9109c85a_84cef76ed486fef8996dc4cdf4849ba93485b1a9/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
@@ -91,8 +91,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR lime]CANAL 11  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
-<link>URL</link>
+<title>[B][COLOR lime]CANAL 11  [/COLOR][/B][B]MEGAPIX - [COLOR yellow][/COLOR] [/B]</title>
+<link>https://d3v1dieo3w7nem.cloudfront.net/hls1/megapix.m3u8?wmsAuthSign=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
@@ -100,8 +100,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR lime]CANAL 12  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
-<link>URL</link>
+<title>[B][COLOR lime]CANAL 12  [/COLOR][/B][B]SPACE - [COLOR yellow][/COLOR] [/B]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_b1a096ff18fba1fe675cf7e09ae1f8432bb15cc2/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
@@ -109,8 +109,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR lime]CANAL 13  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
-<link>URL</link>
+<title>[B][COLOR lime]CANAL 13  [/COLOR][/B][B]STUDIO UNIVERSAL - [COLOR yellow][/COLOR] [/B]</title>
+<link>https://d3v1dieo3w7nem.cloudfront.net/hls1/studiouniversal.m3u8?wmsAuthSign=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
@@ -118,8 +118,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR lime]CANAL 14  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
-<link>URL</link>
+<title>[B][COLOR lime]CANAL 14  [/COLOR][/B][B]MAX PRIME - [COLOR yellow][/COLOR] [/B]</title>
+<link>https://d3v1dieo3w7nem.cloudfront.net/hls1/maxprime.m3u8?wmsAuthSign=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
@@ -127,8 +127,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR lime]CANAL 15  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
-<link>URL</link>
+<title>[B][COLOR lime]CANAL 15  [/COLOR][/B][B]CINEMAX - [COLOR yellow][/COLOR] [/B]</title>
+<link>https://d3v1dieo3w7nem.cloudfront.net/hls1/cinemax.m3u8?wmsAuthSign=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
@@ -136,8 +136,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR lime]CANAL 16  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
-<link>URL</link>
+<title>[B][COLOR lime]CANAL 16  [/COLOR][/B][B]MAX HD - [COLOR yellow][/COLOR] [/B]</title>
+<link>https://d3v1dieo3w7nem.cloudfront.net/hls1/max.m3u8?wmsAuthSign=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
@@ -145,8 +145,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR lime]CANAL 17  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
-<link>URL</link>
+<title>[B][COLOR lime]CANAL 17  [/COLOR][/B][B]FOX PREMIUM - [COLOR yellow][/COLOR] [/B]</title>
+<link>https://d3v1dieo3w7nem.cloudfront.net/hls1/foxpremium1.m3u8?wmsAuthSign=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
@@ -154,8 +154,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR lime]CANAL 18  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
-<link>URL</link>
+<title>[B][COLOR lime]CANAL 18  [/COLOR][/B][B]AXN - [COLOR yellow][/COLOR] [/B]</title>
+<link>https://d3v1dieo3w7nem.cloudfront.net/hls1/axn.m3u8?wmsAuthSign=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
@@ -163,8 +163,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR lime]CANAL 19  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
-<link>URL</link>
+<title>[B][COLOR lime]CANAL 19  [/COLOR][/B][B]UNIVERSAL CHANNEL - [COLOR yellow][/COLOR] [/B]</title>
+<link>https://d3v1dieo3w7nem.cloudfront.net/hls1/universal.m3u8?wmsAuthSign=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
@@ -172,8 +172,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR lime]CANAL 20  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
-<link>URL</link>
+<title>[B][COLOR lime]CANAL 20  [/COLOR][/B][B]A&E - [COLOR yellow][/COLOR] [/B]</title>
+<link>https://d3v1dieo3w7nem.cloudfront.net/hls1/aie.m3u8?wmsAuthSign=</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
