@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[B][COLOR yellow]VIS A VIS -[/B][/COLOR](COMPLETA)[COLOR orange] (HD)[/COLOR] - DUBLADO</name>
+<name>[B][COLOR yellow]VIS A VIS -[/COLOR][B][COLOR orange] DUBLADO [/COLOR][/B][COLOR orange] (COMPLETA)[/COLOR] </name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7mfPWKrNInkTbjVwp0EkaFYRHqD.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/waynedoo/iptvbox/master/VISAVIS</externallink>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7mfPWKrNInkTbjVwp0EkaFYRHqD.jpg</fanart>
@@ -14,7 +14,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR yellow]NARUTO SHIPPUDEN -[/COLOR][B][COLOR orange] DUBLADO [/COLOR][/B]</name>
+<name>[B][COLOR yellow]NARUTO SHIPPUDEN -[/COLOR][B][COLOR orange] DUBLADO [/COLOR][/B][COLOR orange] (INCOMPLETO)[/COLOR] </name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ic9Gb4Zz09ns3JPYHdax8u5kt0n.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/waynedoo/iptvbox/master/NARUTOSHIPUDEN</externallink>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ic9Gb4Zz09ns3JPYHdax8u5kt0n.jpg</fanart>
@@ -28,7 +28,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR yellow]VIDA -[/B][/COLOR](COMPLETA)[COLOR orange] (HD)[/COLOR] - DUBLADO</name>
+<name>[B][COLOR yellow]VIDA -[/COLOR][B][COLOR orange] DUBLADO [/COLOR][/B][COLOR orange] (INCOMPLETA)[/COLOR] </name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQCCFA00dgfhh599cBkgLQ3lOn6.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/waynedoo/iptvbox/master/VIDA</externallink>
 <fanart>https://image.tmdb.org/t/p/original/9OACP2ETgWsrvVUN8Pt1tYgXWUO.jpg</fanart>
