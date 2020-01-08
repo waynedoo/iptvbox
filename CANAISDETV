@@ -1,11 +1,11 @@
 ----------------------------ADICIONAR E REMOVER CANAIS---------------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR yellow]CANAL 01  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
-<link>https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/media.m3u8</link>
-<thumbnail>https://i.imgur.com/ypuhm8B.jpg</thumbnail>
-<fanart>https://i.imgur.com/ypuhm8B.jpg</fanart>
-<info>ESPORTE</info>
+<title>[B][COLOR white]AREA IPTV[/COLOR][/B][B][COLOR red]CANAIS ATUALIZADOS RECENTEMENTE ![/COLOR] [/B]</title>
+<link>IGNOREME</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Sejam Bem Vindos a area de canais,<p> todos os canais listados aqui estao disponiveis em seus respectivo servidores! Canais livres e de livre uso! OBRIGADO!</info>
 </item>
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@
 
 <item>
 <title>[B][COLOR yellow]CANAL 04  [/COLOR][/B][B]FX - [COLOR yellow][/COLOR] [/B]</title>
-<link>https://d3v1dieo3w7nem.cloudfront.net/hls1/fx.m3u8?wmsAuthSign=</link>
+<link>https://live.multicanais.com/live/fxhd/video.m3u8?md5=nkFqNjXIlzu-uRCwrNEjCg&expires=1578450728</link>
 <thumbnail>https://assets0.minhaserie.com.br/uploads/editor_pictures/000/070/972/content_pic.jpg</thumbnail>
 <fanart>https://assets0.minhaserie.com.br/uploads/editor_pictures/000/070/972/content_pic.jpg</fanart>
 <info>ESPORTES</info>
@@ -38,7 +38,7 @@
 
 <item>
 <title>[B][COLOR yellow]CANAL 05  [/COLOR][/B][B]MTV - [COLOR yellow][/COLOR] [/B]</title>
-<link>https://d3v1dieo3w7nem.cloudfront.net/hls1/mtv.m3u8?wmsAuthSign=</link>
+<link>https://live.multicanais.com/mylive/mtvhd/video.m3u8?md5=1qHVk9H8U6H-FpV-ACeA6g&expires=1578450807</link>
 <thumbnail>https://oimparcial.com.br/app/uploads/midias/png/2015/06/16/mtv_logo_svg-43006.png</thumbnail>
 <fanart>https://oimparcial.com.br/app/uploads/midias/png/2015/06/16/mtv_logo_svg-43006.png</fanart>
 <info>[B] VARIEDADES [/B]</info>
@@ -47,7 +47,7 @@
 
 <item>
 <title>[B][COLOR yellow]CANAL 06  [/COLOR][/B][B]FOX - [COLOR yellow][/COLOR] [/B]</title>
-<link>https://d3v1dieo3w7nem.cloudfront.net/hls1/fox.m3u8?wmsAuthSign=</link>
+<link>https://live.multicanais.com/live/foxhd/video.m3u8?md5=IdU-MOaGM-teakbv4uMwjA&expires=1578450888</link>
 <thumbnail>https://observatoriodatv.bol.uol.com.br/wp-content/uploads/2019/06/fox.jpg</thumbnail>
 <fanart>https://observatoriodatv.bol.uol.com.br/wp-content/uploads/2019/06/fox.jpg</fanart>
 <info>[B]FILMES E SERIES[/B]</info>
