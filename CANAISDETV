@@ -10,7 +10,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR yellow]CANAL 02  [/COLOR][/B][B]TV CIDADE VERDE (SBT) - [COLOR yellow][/COLOR] [/B]</title>
+<title>[B][COLOR yellow]CANAL 02  [/COLOR][/B][B]SBT SP - [COLOR yellow][/COLOR] [/B]</title>
 <link>http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cf/Logotipo_TV_Cidade_Verde.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/pt/c/cf/Logotipo_TV_Cidade_Verde.png</fanart>
@@ -19,8 +19,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR yellow]CANAL 03  [/COLOR][/B][B]TV VITORIA RECORD ES - [COLOR yellow][/COLOR] [/B]</title>
-<link>http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8</link>
+<title>[B][COLOR yellow]CANAL 03  [/COLOR][/B][B] RECORD SP - [COLOR yellow][/COLOR] [/B]</title>
+<link>https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>https://midias.folhavitoria.com.br/files/2014/11/3755549-tv-vitoria-30-anos-azul.jpg</thumbnail>
 <fanart>https://midias.folhavitoria.com.br/files/2014/11/3755549-tv-vitoria-30-anos-azul.jpg</fanart>
 <info>VARIEDADES</info>
