@@ -56,7 +56,7 @@
 
 <item>
 <title>[B][COLOR yellow]CANAL 07  [/COLOR][/B][B]TC ACTION - [COLOR yellow][/COLOR] [/B]</title>
-<link>https://d3v1dieo3w7nem.cloudfront.net/hls1/telecineaction.m3u8?wmsAuthSign=</link>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecineaction_be057d4c_c63eeecc6308be59a6ee41d32f9f24b9822507e3/playlist.m3u8</link>
 <thumbnail>https://multicanais.com/wp-content/uploads/2019/04/assistir-telecine-action-ao-vivo.png</thumbnail>
 <fanart>https://multicanais.com/wp-content/uploads/2019/04/assistir-telecine-action-ao-vivo.png</fanart>
 <info>[B]FILMES E SERIES[/B]</info>
@@ -83,7 +83,7 @@
 
 <item>
 <title>[B][COLOR yellow]CANAL 10  [/COLOR][/B][B]TNT - [COLOR yellow][/COLOR] [/B]</title>
-<link>https://d3v1dieo3w7nem.cloudfront.net/hls1/tnt.m3u8?wmsAuthSign=</link>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tnt_9109c85a_52dfd925c9028d3277b0218b0cccad925447a6d2/playlist.m3u8</link>
 <thumbnail>https://cdn.mitvstatic.com/channels/br_tnt_m.png</thumbnail>
 <fanart>https://cdn.mitvstatic.com/channels/br_tnt_m.png</fanart>
 <info>[B] FILMES E SERIES [/B]</info>
@@ -101,7 +101,7 @@
 
 <item>
 <title>[B][COLOR yellow]CANAL 12  [/COLOR][/B][B]SPACE - [COLOR yellow][/COLOR] [/B]</title>
-<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_b1a096ff18fba1fe675cf7e09ae1f8432bb15cc2/playlist.m3u8</link>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_3e4a476d34562f909b57fd1889b89df3b6324125/playlist.m3u8</link>
 <thumbnail>https://www.tvmagazine.com.br/imagens/icones/600/space.png</thumbnail>
 <fanart>https://www.tvmagazine.com.br/imagens/icones/600/space.png</fanart>
 <info>[B] FILMES E SERIES [/B]</info>
@@ -155,7 +155,7 @@
 
 <item>
 <title>[B][COLOR yellow]CANAL 18  [/COLOR][/B][B]AXN - [COLOR yellow][/COLOR] [/B]</title>
-<link>https://d3v1dieo3w7nem.cloudfront.net/hls1/axn.m3u8?wmsAuthSign=</link>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/axn_cb7a1d77_4c710278fe8950e970349f122eb7e1312615ddbe/playlist.m3u8</link>
 <thumbnail>https://visiona.tv/wp-content/uploads/2019/05/axn-1-logo-png-transparent.png</thumbnail>
 <fanart>https://visiona.tv/wp-content/uploads/2019/05/axn-1-logo-png-transparent.png</fanart>
 <info>[B] FILMES E SERIES [/B]</info>
@@ -164,7 +164,7 @@
 
 <item>
 <title>[B][COLOR yellow]CANAL 19  [/COLOR][/B][B]UNIVERSAL CHANNEL - [COLOR yellow][/COLOR] [/B]</title>
-<link>https://d3v1dieo3w7nem.cloudfront.net/hls1/universal.m3u8?wmsAuthSign=</link>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/universalchannel_8290abc6_4496dccfc5e69e05e14a4c6adb0b0e4c63d6b8d9/playlist.m3u8</link>
 <thumbnail>http://midiafatos.com.br/wp-content/uploads/2017/02/universal_channel_N.png</thumbnail>
 <fanart>http://midiafatos.com.br/wp-content/uploads/2017/02/universal_channel_N.png</fanart>
 <info>[B] FILMES E SERIES [/B]</info>
@@ -173,7 +173,7 @@
 
 <item>
 <title>[B][COLOR yellow]CANAL 20  [/COLOR][/B][B]A&E - [COLOR yellow][/COLOR] [/B]</title>
-<link>https://d3v1dieo3w7nem.cloudfront.net/hls1/aie.m3u8?wmsAuthSign=</link>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_7fa09f7b17b3070853e74e93d0eacf22f1344f8f/playlist.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/1200px-A%26E-Network-Logo.svg.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/1200px-A%26E-Network-Logo.svg.png</fanart>
 <info>[B] VARIEDADES [/B]</info>
@@ -181,8 +181,8 @@
 --------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR yellow]CANAL 21  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
-<link>URL</link>
+<title>[B][COLOR yellow]CANAL 21  [/COLOR][/B][B]SONY - [COLOR yellow][/COLOR] [/B]</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sony_06349be7_5d83638c07c4c628f6bcfe9404930de77cae315b/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
