@@ -8,10 +8,10 @@
 <info>Sejam Bem Vindos a area de canais,<p> todos os canais listados aqui estao disponiveis em seus respectivo servidores! Canais livres e de livre uso! OBRIGADO!</info>
 </item>
 ------------------------------------------------------------------------------------------------------------------------------------------
-
-<item>
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+<item> 
 <title>[B][COLOR yellow]CANAL 02  [/COLOR][/B][B]SBT SP - [COLOR yellow][/COLOR] [/B]</title>
-<link>http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8</link>
+<link>https://live.multicanais.com/mylive/sbtsd/video.m3u8?md5=LKROaBUXM0VAO2knthipbw&expires=1579569203</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cf/Logotipo_TV_Cidade_Verde.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/pt/c/cf/Logotipo_TV_Cidade_Verde.png</fanart>
 <info>VARIEDADES</info>
