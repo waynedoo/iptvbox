@@ -8,10 +8,10 @@
 <info>Sejam Bem Vindos a area de canais,<p> todos os canais listados aqui estao disponiveis em seus respectivo servidores! Canais livres e de livre uso! OBRIGADO!</info>
 </item>
 ------------------------------------------------------------------------------------------------------------------------------------------
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
 <item> 
 <title>[B][COLOR yellow]CANAL 01  [/COLOR][/B][B]TV CIDADE VERDE - [COLOR yellow][/COLOR] [/B]</title>
-<link>https://live.multicanais.com/mylive/sbtsd/video.m3u8?md5=LKROaBUXM0VAO2knthipbw&expires=1579569203</link>
+<link>http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cf/Logotipo_TV_Cidade_Verde.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/pt/c/cf/Logotipo_TV_Cidade_Verde.png</fanart>
 <info>VARIEDADES</info>
@@ -36,8 +36,8 @@ http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR yellow]CANAL 04  [/COLOR][/B][B]SBT TESTE - [COLOR yellow][/COLOR] [/B]</title>
-<link>http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8</link>
+<title>[B][COLOR yellow]CANAL 04  [/COLOR][/B][B]SBT PERNAMBUCO - [COLOR yellow][/COLOR] [/B]</title>
+<link>http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
@@ -46,7 +46,7 @@ http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
 
 <item>
 <title>[B][COLOR yellow]CANAL 05  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
-<link>URL</link>
+<link>http://173.236.10.10:1935/dgrau/dgrau/live.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
@@ -98,3 +98,13 @@ http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
 </item>
 ------------------------------------------------------------------------------------------------------------------------------------------
 
+<item>
+<title>[COLOR gray][B]GLOBO SP[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]$doregex[Igor_Rangel_4]$doregex[Igor_Rangel_5]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_2</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_Link]")</expres><page></page></regex><regex><name>Igor_Rangel_Link</name><expres>ID$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_3</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("\/","/")</expres><page></page></regex><regex><name>Igor_Rangel_file</name><expres>url":"(.*)215</expres><page>$doregex[Igor_Rangel_site]</page></regex><regex><name>Igor_Rangel_site</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_cd]")</expres><page></page></regex><regex><name>Igor_Rangel_cd</name><expres>site$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_4</name><expres>GLOBO SP HD$doregex[Igor_Rangel_6]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_5</name><expres>Ts$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_6</name><expres>TSD"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex>
+<info>[B]Cansado de Travamentos ??
+Venha conhecer a lista paga sem Travamentos
+So chamar no WhatsApp
+31 998937951 (Igor)[/B]</info>
+<fanart>http://goo.gl/zHXwVr</fanart>
+<thumbnail>http://goo.gl/oSbbWy</thumbnail>
+</item>
