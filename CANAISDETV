@@ -10,7 +10,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
 <item> 
-<title>[B][COLOR yellow]CANAL 02  [/COLOR][/B][B]SBT SP - [COLOR yellow][/COLOR] [/B]</title>
+<title>[B][COLOR yellow]CANAL 01  [/COLOR][/B][B]TV CIDADE VERDE - [COLOR yellow][/COLOR] [/B]</title>
 <link>https://live.multicanais.com/mylive/sbtsd/video.m3u8?md5=LKROaBUXM0VAO2knthipbw&expires=1579569203</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/cf/Logotipo_TV_Cidade_Verde.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/pt/c/cf/Logotipo_TV_Cidade_Verde.png</fanart>
@@ -19,170 +19,25 @@ http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR yellow]CANAL 03  [/COLOR][/B][B] RECORD SP - [COLOR yellow][/COLOR] [/B]</title>
-<link>https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail>https://midias.folhavitoria.com.br/files/2014/11/3755549-tv-vitoria-30-anos-azul.jpg</thumbnail>
-<fanart>https://midias.folhavitoria.com.br/files/2014/11/3755549-tv-vitoria-30-anos-azul.jpg</fanart>
+<title>[B][COLOR yellow]CANAL 02  [/COLOR][/B][B] REDE TV - [COLOR yellow][/COLOR] [/B]</title>
+<link>http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8</link>
+<thumbnail>https://portal.comunique-se.com.br/wp-content/uploads/2018/02/rede-TV-990x556.jpg</thumbnail>
+<fanart>https://portal.comunique-se.com.br/wp-content/uploads/2018/02/rede-TV-990x556.jpg</fanart>
 <info>VARIEDADES</info>
 </item>
-------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR yellow]CANAL 04  [/COLOR][/B][B]FX - [COLOR yellow][/COLOR] [/B]</title>
-<link>https://live.multicanais.com/live/fxhd/video.m3u8?md5=nkFqNjXIlzu-uRCwrNEjCg&expires=1578450728</link>
-<thumbnail>https://assets0.minhaserie.com.br/uploads/editor_pictures/000/070/972/content_pic.jpg</thumbnail>
-<fanart>https://assets0.minhaserie.com.br/uploads/editor_pictures/000/070/972/content_pic.jpg</fanart>
-<info>ESPORTES</info>
+<title>[B][COLOR yellow]CANAL 03  [/COLOR][/B][B]TV JORNAL - [COLOR yellow][/COLOR] [/B]</title>
+<link>http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_TV_Jornal.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_TV_Jornal.jpg</fanart>
+<info>JORNAL</info>
 </item>
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR yellow]CANAL 05  [/COLOR][/B][B]MTV - [COLOR yellow][/COLOR] [/B]</title>
-<link>https://live.multicanais.com/mylive/mtvhd/video.m3u8?md5=1qHVk9H8U6H-FpV-ACeA6g&expires=1578450807</link>
-<thumbnail>https://oimparcial.com.br/app/uploads/midias/png/2015/06/16/mtv_logo_svg-43006.png</thumbnail>
-<fanart>https://oimparcial.com.br/app/uploads/midias/png/2015/06/16/mtv_logo_svg-43006.png</fanart>
-<info>[B] VARIEDADES [/B]</info>
-</item>
-------------------------------------------------------------------------------------------------------------------------------------------
-
-<item>
-<title>[B][COLOR yellow]CANAL 06  [/COLOR][/B][B]FOX - [COLOR yellow][/COLOR] [/B]</title>
-<link>https://live.multicanais.com/live/foxhd/video.m3u8?md5=IdU-MOaGM-teakbv4uMwjA&expires=1578450888</link>
-<thumbnail>https://observatoriodatv.bol.uol.com.br/wp-content/uploads/2019/06/fox.jpg</thumbnail>
-<fanart>https://observatoriodatv.bol.uol.com.br/wp-content/uploads/2019/06/fox.jpg</fanart>
-<info>[B]FILMES E SERIES[/B]</info>
-</item>
-------------------------------------------------------------------------------------------------------------------------------------------
-
-<item>
-<title>[B][COLOR yellow]CANAL 07  [/COLOR][/B][B]TC ACTION - [COLOR yellow][/COLOR] [/B]</title>
-<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecineaction_be057d4c_c63eeecc6308be59a6ee41d32f9f24b9822507e3/playlist.m3u8</link>
-<thumbnail>https://multicanais.com/wp-content/uploads/2019/04/assistir-telecine-action-ao-vivo.png</thumbnail>
-<fanart>https://multicanais.com/wp-content/uploads/2019/04/assistir-telecine-action-ao-vivo.png</fanart>
-<info>[B]FILMES E SERIES[/B]</info>
-</item>
-------------------------------------------------------------------------------------------------------------------------------------------
-
-<item>
-<title>[B][COLOR yellow]CANAL 08  [/COLOR][/B][B]TC PIPOCA - [COLOR yellow][/COLOR] [/B]</title>
-<link>https://d3v1dieo3w7nem.cloudfront.net/hls1/telecinepipoca.m3u8?wmsAuthSign=</link>
-<thumbnail>https://multicanais.com/wp-content/uploads/2019/04/assistir-telecine-pipoca-ao-vivo.png</thumbnail>
-<fanart>https://multicanais.com/wp-content/uploads/2019/04/assistir-telecine-pipoca-ao-vivo.png</fanart>
-<info>[B] FILMES E SERIES [/B]</info>
-</item>
-------------------------------------------------------------------------------------------------------------------------------------------
-
-<item>
-<title>[B][COLOR yellow]CANAL 09  [/COLOR][/B][B]TC CULT - [COLOR yellow][/COLOR] [/B]</title>
-<link>https://d3v1dieo3w7nem.cloudfront.net/hls1/telecinecult.m3u8?wmsAuthSign=</link>
-<thumbnail>http://2.bp.blogspot.com/-Pqh6urVKRR0/UzdjvfnfDBI/AAAAAAAAh4Q/xqCFFP7Hb_k/s1600/CULT_preto_gato.png</thumbnail>
-<fanart>http://2.bp.blogspot.com/-Pqh6urVKRR0/UzdjvfnfDBI/AAAAAAAAh4Q/xqCFFP7Hb_k/s1600/CULT_preto_gato.png</fanart>
-<info>[B] FILMES E SERIES [/B]</info>
-</item>
-------------------------------------------------------------------------------------------------------------------------------------------
-
-<item>
-<title>[B][COLOR yellow]CANAL 10  [/COLOR][/B][B]TNT - [COLOR yellow][/COLOR] [/B]</title>
-<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tnt_9109c85a_52dfd925c9028d3277b0218b0cccad925447a6d2/playlist.m3u8</link>
-<thumbnail>https://cdn.mitvstatic.com/channels/br_tnt_m.png</thumbnail>
-<fanart>https://cdn.mitvstatic.com/channels/br_tnt_m.png</fanart>
-<info>[B] FILMES E SERIES [/B]</info>
-</item>
-------------------------------------------------------------------------------------------------------------------------------------------
-
-<item>
-<title>[B][COLOR yellow]CANAL 11  [/COLOR][/B][B]MEGAPIX - [COLOR yellow][/COLOR] [/B]</title>
-<link>https://d3v1dieo3w7nem.cloudfront.net/hls1/megapix.m3u8?wmsAuthSign=</link>
-<thumbnail>https://s2.glbimg.com/YmzFXfqM7A_fRwhbMp3AzjPpwEw=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/3c/45/8e98b42584b1a930aee9241e73fa.png</thumbnail>
-<fanart>https://s2.glbimg.com/YmzFXfqM7A_fRwhbMp3AzjPpwEw=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/3c/45/8e98b42584b1a930aee9241e73fa.png</fanart>
-<info>[B] FILMES E SERIES [/B]</info>
-</item>
-------------------------------------------------------------------------------------------------------------------------------------------
-
-<item>
-<title>[B][COLOR yellow]CANAL 12  [/COLOR][/B][B]SPACE - [COLOR yellow][/COLOR] [/B]</title>
-<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_3e4a476d34562f909b57fd1889b89df3b6324125/playlist.m3u8</link>
-<thumbnail>https://www.tvmagazine.com.br/imagens/icones/600/space.png</thumbnail>
-<fanart>https://www.tvmagazine.com.br/imagens/icones/600/space.png</fanart>
-<info>[B] FILMES E SERIES [/B]</info>
-</item>
-------------------------------------------------------------------------------------------------------------------------------------------
-
-<item>
-<title>[B][COLOR yellow]CANAL 13  [/COLOR][/B][B]STUDIO UNIVERSAL - [COLOR yellow][/COLOR] [/B]</title>
-<link>https://d3v1dieo3w7nem.cloudfront.net/hls1/studiouniversal.m3u8?wmsAuthSign=</link>
-<thumbnail>https://4.bp.blogspot.com/-zlI0-aFvSPs/VhWxcrzH_II/AAAAAAAAlqc/pT2pu__qCtM/s1600/2000px-Logo_Studio_Universal.svg.png</thumbnail>
-<fanart>https://4.bp.blogspot.com/-zlI0-aFvSPs/VhWxcrzH_II/AAAAAAAAlqc/pT2pu__qCtM/s1600/2000px-Logo_Studio_Universal.svg.png</fanart>
-<info>[B] FILMES E SERIES [/B]</info>
-</item>
-------------------------------------------------------------------------------------------------------------------------------------------
-
-<item>
-<title>[B][COLOR yellow]CANAL 14  [/COLOR][/B][B]MAX PRIME - [COLOR yellow][/COLOR] [/B]</title>
-<link>https://d3v1dieo3w7nem.cloudfront.net/hls1/maxprime.m3u8?wmsAuthSign=</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/15/MAX_Prime.png</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/1/15/MAX_Prime.png</fanart>
-<info>[B] FILMES E SERIES [/B]</info>
-</item>
-------------------------------------------------------------------------------------------------------------------------------------------
-
-<item>
-<title>[B][COLOR yellow]CANAL 15  [/COLOR][/B][B]CINEMAX - [COLOR yellow][/COLOR] [/B]</title>
-<link>https://d3v1dieo3w7nem.cloudfront.net/hls1/cinemax.m3u8?wmsAuthSign=</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png</fanart>
-<info>[B] FILMES E SERIES [/B]</info>
-</item>
-------------------------------------------------------------------------------------------------------------------------------------------
-
-<item>
-<title>[B][COLOR yellow]CANAL 16  [/COLOR][/B][B]MAX HD - [COLOR yellow][/COLOR] [/B]</title>
-<link>https://d3v1dieo3w7nem.cloudfront.net/hls1/max.m3u8?wmsAuthSign=</link>
-<thumbnail>http://memotv.alwaysdata.net/thumbs/Max_HD.png</thumbnail>
-<fanart>http://memotv.alwaysdata.net/thumbs/Max_HD.png</fanart>
-<info>[B] FILMES E SERIES [/B]</info>
-</item>
-------------------------------------------------------------------------------------------------------------------------------------------
-
-<item>
-<title>[B][COLOR yellow]CANAL 17  [/COLOR][/B][B]FOX PREMIUM - [COLOR yellow][/COLOR] [/B]</title>
-<link>https://d3v1dieo3w7nem.cloudfront.net/hls1/foxpremium1.m3u8?wmsAuthSign=</link>
-<thumbnail>http://br.web.img3.acsta.net/r_640_360/newsv7/17/04/27/22/03/450031.jpg</thumbnail>
-<fanart>http://br.web.img3.acsta.net/r_640_360/newsv7/17/04/27/22/03/450031.jpg</fanart>
-<info>[B] FILMES E SERIES [/B]</info>
-</item>
-------------------------------------------------------------------------------------------------------------------------------------------
-
-<item>
-<title>[B][COLOR yellow]CANAL 18  [/COLOR][/B][B]AXN - [COLOR yellow][/COLOR] [/B]</title>
-<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/axn_cb7a1d77_4c710278fe8950e970349f122eb7e1312615ddbe/playlist.m3u8</link>
-<thumbnail>https://visiona.tv/wp-content/uploads/2019/05/axn-1-logo-png-transparent.png</thumbnail>
-<fanart>https://visiona.tv/wp-content/uploads/2019/05/axn-1-logo-png-transparent.png</fanart>
-<info>[B] FILMES E SERIES [/B]</info>
-</item>
-------------------------------------------------------------------------------------------------------------------------------------------
-
-<item>
-<title>[B][COLOR yellow]CANAL 19  [/COLOR][/B][B]UNIVERSAL CHANNEL - [COLOR yellow][/COLOR] [/B]</title>
-<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/universalchannel_8290abc6_4496dccfc5e69e05e14a4c6adb0b0e4c63d6b8d9/playlist.m3u8</link>
-<thumbnail>http://midiafatos.com.br/wp-content/uploads/2017/02/universal_channel_N.png</thumbnail>
-<fanart>http://midiafatos.com.br/wp-content/uploads/2017/02/universal_channel_N.png</fanart>
-<info>[B] FILMES E SERIES [/B]</info>
-</item>
---------------------------------------------------------------------------------------------------------------------------------------
-
-<item>
-<title>[B][COLOR yellow]CANAL 20  [/COLOR][/B][B]A&E - [COLOR yellow][/COLOR] [/B]</title>
-<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_7fa09f7b17b3070853e74e93d0eacf22f1344f8f/playlist.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/1200px-A%26E-Network-Logo.svg.png</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/1200px-A%26E-Network-Logo.svg.png</fanart>
-<info>[B] VARIEDADES [/B]</info>
-</item>
---------------------------------------------------------------------------------------------------------------------------------------
-
-<item>
-<title>[B][COLOR yellow]CANAL 21  [/COLOR][/B][B]SONY - [COLOR yellow][/COLOR] [/B]</title>
-<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sony_06349be7_5d83638c07c4c628f6bcfe9404930de77cae315b/playlist.m3u8</link>
+<title>[B][COLOR yellow]CANAL 04  [/COLOR][/B][B]SBT TESTE - [COLOR yellow][/COLOR] [/B]</title>
+<link>http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
@@ -190,7 +45,7 @@ http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR yellow]CANAL 22  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
+<title>[B][COLOR yellow]CANAL 05  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
 <link>URL</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -199,7 +54,7 @@ http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR yellow]CANAL 23  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
+<title>[B][COLOR yellow]CANAL 06  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
 <link>URL</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -208,7 +63,7 @@ http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR yellow]CANAL 24  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
+<title>[B][COLOR yellow]CANAL 07  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
 <link>URL</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -217,7 +72,7 @@ http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR yellow]CANAL 25  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
+<title>[B][COLOR yellow]CANAL 08  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
 <link>URL</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -226,7 +81,7 @@ http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR yellow]CANAL 26  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
+<title>[B][COLOR yellow]CANAL 09  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
 <link>URL</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -235,41 +90,11 @@ http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 <item>
-<title>[B][COLOR yellow]CANAL 27  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
+<title>[B][COLOR yellow]CANAL 10  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
 <link>URL</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 ------------------------------------------------------------------------------------------------------------------------------------------
-
-<item>
-<title>[B][COLOR yellow]CANAL 28  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
-<link>URL</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-------------------------------------------------------------------------------------------------------------------------------------------
-
-<item>
-<title>[B][COLOR yellow]CANAL 29  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
-<link>URL</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-------------------------------------------------------------------------------------------------------------------------------------------
-
-</head>
-<body>
-  <title>[B][COLOR yellow]CAteste  [/COLOR][/B][B]ALL SPORTS - [COLOR yellow][/COLOR] [/B]</title>
-<object width="425" height="350">
-<param name="movie" value="https://live.multicanais.com/mylive/foxpremiumsd/video.m3u8?md5=vixm97m-G42RFcy6TKtWFA&expires=1579570058" />
-<embed src="https://live.multicanais.com/mylive/foxpremiumsd/video.m3u8?md5=vixm97m-G42RFcy6TKtWFA&expires=1579570058" type="application/x-shockwave-flash" width="425" height="350" />
-</object>
-</body>
-</html>
-
-
 
