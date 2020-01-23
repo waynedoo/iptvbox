@@ -1,21 +1,9 @@
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white][B]SESSAO FILMES[/B][/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia601509.us.archive.org/29/items/series_202001/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/waynedoo/iptvbox/master/FILMES</externallink>
-<fanart>https://ia601504.us.archive.org/25/items/LANCAMENTOS.fw/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - OS MELHORES FILMES PARA A TODA FAMILIA! - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
 
 <item>
-<title>[B][COLOR lime] [/COLOR][/B][B]SESSAO [COLOR yellow](2019)[/COLOR]  [COLOR orange] FILMES[/COLOR] - DUBLADOS[/B]</title>
+<title>[B][COLOR lime]*BEM VINDOS  [/COLOR][/B][B] SESSAO [COLOR orange] FILMES[/COLOR] - DUBLADO[/B]</title>
 <link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yeGcOsJc24ME6pxRWIqb6NAsBfo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/nSLlOUplaeDz1rkohDSK8A6kXYo.jpg</fanart>
+<info>Quando a namorada de Nick o deixa na formatura, ele tem um colapso colossal na frente de toda a universidade. Ele está convencido de que sua vida acabou, mas seu melhor amigo Shane tem a solução perfeita: três dias em um festival de música épico. Com a ajuda de Amy, Shane tenta convencer Nick a abraçar a música, o caos e a lama. </info>
 </item>
+----------------------------------------------------------------------------------------------------------------------------------------
