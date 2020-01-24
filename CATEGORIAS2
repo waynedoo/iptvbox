@@ -1,5 +1,6 @@
 
-<channel>	<channel>
+<channel>
+<channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white][B]CANAIS DE TV[/B][/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>	<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white][B]FILMES[/B][/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia601509.us.archive.org/29/items/series_202001/filmes.png</thumbnail>	
 <externallink>https://raw.githubusercontent.com/waynedoo/iptvbox/master/CANAISDETV</externallink>
@@ -13,7 +14,8 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
-<channel>	<channel>
+<channel>
+<channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white][B]FILMES[/B][/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>	<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white][B]FILMES[/B][/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia601509.us.archive.org/29/items/series_202001/filmes.png</thumbnail>	
 
@@ -27,7 +29,8 @@
 
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<channel>	<channel>
+<channel>
+<channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white][B]SERIES[/B][/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>	<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white][B]FILMES[/B][/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia601509.us.archive.org/29/items/series_202001/filmes.png</thumbnail>	
 <externallink>https://raw.githubusercontent.com/waynedoo/iptvbox/master/SERIESCATEGO</externallink>	
