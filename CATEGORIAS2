@@ -1,7 +1,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white][B]TV ONLINE[/B][/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR white][B] SESSAO [/B][/COLOR][COLOR red][B] IPTV [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/GKbumCw.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/waynedoo/iptvbox/master/CANAISDETV</externallink>
 <fanart>https://ia601504.us.archive.org/25/items/LANCAMENTOS.fw/fanart.jpg</fanart>
@@ -17,7 +17,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B] SESSAO [/B][/COLOR][COLOR red][B]FILMES[/B][/COLOR]</name>
+<name>[COLOR white][B] SESSAO [/B][/COLOR][COLOR red][B] FILMES [/B][/COLOR]</name>
 <thumbnail>https://ia601509.us.archive.org/29/items/series_202001/filmes.png</thumbnail>
 <externallink>raw</externallink>
 <fanart>https://ia601504.us.archive.org/25/items/LANCAMENTOS.fw/fanart.jpg</fanart>
@@ -33,7 +33,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white][B]SERIES[/B][/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR white][B] SESSAO [/B][/COLOR][COLOR red][B] SERIES [/B][/COLOR]</name>
 <thumbnail>https://ia601509.us.archive.org/29/items/series_202001/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/waynedoo/iptvbox/master/SERIESCATEGO</externallink>
 <fanart>https://ia601504.us.archive.org/25/items/LANCAMENTOS.fw/fanart.jpg</fanart>
